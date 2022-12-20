@@ -11,12 +11,17 @@
 # Sumário :bookmark_tabs:
 
 ### Projeto da Página do Instagram:camera:
+<p> Recriando a página de acesso ao Instagram.</p> 
 
-#### :small_blue_diamond: Ferramentas de uso:
+<p>Curso ministrado pela <a href="https://www.dio.me/" target="_blank">Dio.me</a>.</p>
 
-###### :white_check_mark: HTML5
+### Ferramentas utilizada para desenvolvimento :hammer:
 
-###### :white_check_mark: CSS3 - Flex Box
-
+<ul>
+    <li>Sistema Operacional Linux - Distro Ubuntu</li>
+    <li>Vscode</li>
+    <li>HTML5</li>
+    <li>CSS3</li>
+</ul>
 
 
